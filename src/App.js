@@ -4,7 +4,7 @@ import Portada from './componentes/Portada';
 function App() {
   return (
     <>
-        <Portada />
+        < Portada />
     </>
   );
 }
